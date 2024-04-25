@@ -23,4 +23,4 @@ That's it!
 
 ## Demo
 
-<!-- [![Video Thumbnail](path/to/thumbnail.png)](./demo/demo.mp4) -->
+https://github.com/sleepymalc/unicodeit/assets/60427058/87ff4fcb-a1a6-4e93-9cd1-3b40d1bba14d
