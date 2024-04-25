@@ -23,10 +23,4 @@ That's it!
 
 ## Demo
 
-<<<<<<< HEAD
-<p align="center">
-	<img src="./demo/demo.gif">
-</p>
-=======
-https://github.com/sleepymalc/unicodeit/assets/60427058/87ff4fcb-a1a6-4e93-9cd1-3b40d1bba14d
->>>>>>> 106221f24889612ca4d4fe50cae5801542005ccc
+<https://github.com/sleepymalc/unicodeit/assets/60427058/87ff4fcb-a1a6-4e93-9cd1-3b40d1bba14d>
