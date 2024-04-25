@@ -10,7 +10,7 @@
 
 ## Abstract
 
-Inspired by [unicodeit](https://github.com/svenkreiss/unicodeit), but in Alfred! Starting with `uni`, then you can type $\LaTeX$ code and change it to Unicode easily. To download the workflow, see the [release page](https://github.com/sleepymalc/unicode/releases).
+Inspired by [unicodeit](https://github.com/svenkreiss/unicodeit), but in Alfred! Starting with `uni`, then you can type $\LaTeX$ code and change it to Unicode easily. To download the workflow, see the [release page](https://github.com/sleepymalc/unicodeit/releases).
 
 ## Setup
 
