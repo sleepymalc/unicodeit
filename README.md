@@ -23,4 +23,6 @@ That's it!
 
 ## Demo
 
-<!-- [![Video Thumbnail](path/to/thumbnail.png)](./demo/demo.mp4) -->
+<p align="center">
+	<img src="./demo/demo.gif">
+</p>
