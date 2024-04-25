@@ -14,7 +14,7 @@ Inspired by [unicodeit](https://github.com/svenkreiss/unicodeit), but in Alfred!
 
 ## Setup
 
-It's easy to set up the workflow as follows: Firstly, you'll need `python3` installed on your laptop.
+It's easy to set up the workflow if you have `python3` installed on your laptop. Then, just follow the following steps:
 
 1. Go to [unicodeit](https://github.com/svenkreiss/unicodeit) and see how to install it on your laptop. Basically, it's just `pip install unicodeit`.
 2. Install this workflow on the [release](https://github.com/sleepymalc/unicode/releases) page, and install it to your Alfred.
